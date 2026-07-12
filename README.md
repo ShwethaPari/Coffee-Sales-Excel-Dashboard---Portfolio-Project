@@ -8,6 +8,7 @@ An end-to-end Excel project that transforms raw coffee order data into an intera
 ## 🖼️ Dashboard Preview
 
 https://github.com/user-attachments/assets/c6aca5f9-870c-4c6f-805f-242e369c1ad2
+
 <img width="1135" height="610" alt="image" src="https://github.com/user-attachments/assets/720d3c73-2e04-4355-86f5-5caefe0738fc" />
 
 
