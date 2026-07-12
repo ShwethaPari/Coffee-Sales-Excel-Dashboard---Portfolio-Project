@@ -16,3 +16,15 @@ An end-to-end Excel project that transforms raw coffee order data into an intera
 * **Interactive Filtering:** Implemented Slicers and Timelines for responsive dashboard filtering (by date range, category, etc.).
 * **Dashboard Design:** Consolidated all visual elements into a single, cohesive, interactive dashboard sheet.
 
+---
+
+## 🔄 Process
+
+1. **Import & Explore:** Imported and explored the raw coffee orders dataset.
+2. **Lookups:** Used `XLOOKUP` and `INDEX MATCH` to bring in reference data (e.g., product details) from a separate sheet.
+3. **Calculated Columns:** Built a Sales column (Price × Quantity) and used nested `IF` functions to categorize orders.
+4. **Data Cleaning:** Standardized date and number formatting, then checked for and removed duplicates.
+5. **Structured Data:** Converted the cleaned range into an Excel Table for dynamic referencing.
+6. **PivotTables & PivotCharts:** Summarized sales by relevant dimensions (e.g., product, time, region) and visualized with charts.
+7. **Interactivity:** Added a Timeline for date filtering and Slicers for category-based filtering, then linked them to the PivotTables.
+8. **Dashboard Assembly:** Combined all PivotCharts, slicers, and the timeline into one cohesive dashboard sheet.
