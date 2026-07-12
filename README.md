@@ -5,6 +5,13 @@ An end-to-end Excel project that transforms raw coffee order data into an intera
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![Coffee Sales Dashboard Preview](path-to-your-image.png)
+*(Replace `path-to-your-image.png` with your actual uploaded screenshot file path)*
+
+---
+
 ## 🛠️ Skills Demonstrated
 
 * **XLOOKUP:** Pulled matching product and price information from a reference table.
