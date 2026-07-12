@@ -9,7 +9,7 @@ An end-to-end Excel project that transforms raw coffee order data into an intera
 
 ![Coffee Sales Dashboard Preview]
 (https://github.com/ShwethaPari/Coffee-Sales-Excel-Dashboard---Portfolio-Project/blob/main/Coffe%20sale%20Excel%20Dashboard.png)
-()
+(https://github.com/ShwethaPari/Coffee-Sales-Excel-Dashboard---Portfolio-Project/blob/main/Coffee%20dashboard%20recording.mp4)
 
 
 ---
