@@ -5,30 +5,6 @@ An end-to-end Excel project that transforms raw coffee order data into an intera
 
 ---
 
-## 📊 Key Findings
-
-* **US-Dominated Market:** Sales are heavily concentrated in the U.S., leading by a wide margin at $35,639. This is far ahead of Ireland ($6,697) and the United Kingdom ($2,799), accounting for roughly 80% of visible country-level sales.
-* **Volatile Product Trends:** No single coffee species dominates consistently. Arabica, Excelsa, Liberica, and Robusta take turns leading in different months with sharp individual spikes (Arabica ~$820, Liberica ~$900 at their peaks) rather than one variety steadily outperforming the others.
-* **Multi-Year Timeline:** The dataset spans 2019–2022 (over 3.5 years of monthly order history), providing a solid historical base for trend and seasonality analysis.
-* **Balanced Customer Base:** Top customers are tightly clustered, with the top 5 spenders falling within a narrow $278–$317 range (Allis Wilmore at $317, Don Flintiff at $278). This indicates that revenue is well-distributed without reliance on a single dominant customer.
-* **Deep Segmentation Potential:** Rich segmentation options exist. The dashboard supports granular filtering by Roast Type (Dark/Light/Medium), Bag Size (0.2kg–2.5kg), and Loyalty Card status to easily analyze how customer choices relate to total revenue.
-
----
-
-## 🖼️ Dashboard Preview
-
-https://github.com/user-attachments/assets/c6aca5f9-870c-4c6f-805f-242e369c1ad2
-
-<img width="1135" height="610" alt="image" src="https://github.com/user-attachments/assets/720d3c73-2e04-4355-86f5-5caefe0738fc" />
-
-
-
-
-
-
-
----
-
 ## 🛠️ Skills Demonstrated
 
 * **XLOOKUP:** Pulled matching product and price information from a reference table.
@@ -52,3 +28,29 @@ https://github.com/user-attachments/assets/c6aca5f9-870c-4c6f-805f-242e369c1ad2
 6. **PivotTables & PivotCharts:** Summarized sales by relevant dimensions (e.g., product, time, region) and visualized with charts.
 7. **Interactivity:** Added a Timeline for date filtering and Slicers for category-based filtering, then linked them to the PivotTables.
 8. **Dashboard Assembly:** Combined all PivotCharts, slicers, and the timeline into one cohesive dashboard sheet.
+
+---
+
+## 📊 Key Findings
+
+* **US-Dominated Market:** Sales are heavily concentrated in the U.S., leading by a wide margin at $35,639. This is far ahead of Ireland ($6,697) and the United Kingdom ($2,799), accounting for roughly 80% of visible country-level sales.
+* **Volatile Product Trends:** No single coffee species dominates consistently. Arabica, Excelsa, Liberica, and Robusta take turns leading in different months with sharp individual spikes (Arabica ~$820, Liberica ~$900 at their peaks) rather than one variety steadily outperforming the others.
+* **Multi-Year Timeline:** The dataset spans 2019–2022 (over 3.5 years of monthly order history), providing a solid historical base for trend and seasonality analysis.
+* **Balanced Customer Base:** Top customers are tightly clustered, with the top 5 spenders falling within a narrow $278–$317 range (Allis Wilmore at $317, Don Flintiff at $278). This indicates that revenue is well-distributed without reliance on a single dominant customer.
+* **Deep Segmentation Potential:** Rich segmentation options exist. The dashboard supports granular filtering by Roast Type (Dark/Light/Medium), Bag Size (0.2kg–2.5kg), and Loyalty Card status to easily analyze how customer choices relate to total revenue.
+
+---
+
+## 🖼️ Dashboard Preview
+
+https://github.com/user-attachments/assets/c6aca5f9-870c-4c6f-805f-242e369c1ad2
+
+<img width="1135" height="610" alt="image" src="https://github.com/user-attachments/assets/720d3c73-2e04-4355-86f5-5caefe0738fc" />
+
+
+
+
+
+
+
+
